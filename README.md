@@ -12,7 +12,7 @@ Minecraft Biome Classification - это проект по мультикласс
 
 Посмотрите [рабочий пример здесь](https://minecraft-biome-classification.streamlit.app/).
 
-![Example](https://github.com/Grandher/Minecraft-biome-classification_python/blob/main/images/4.jpg)
+![Example](https://github.com/Grandher/Minecraft-biome-classification_python/blob/main/images/4.png)
 
 ## Результаты и метрики
 
