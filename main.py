@@ -47,3 +47,18 @@ if uploaded_image is not None:
     # Классификация изображения
     class_index = classify_image(image)
     st.write("Предполагаемый биом:", biome_names[class_index])
+
+footer_style = """
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+"""
+
+st.markdown(
+    '<div style="{}"><a href="https://32cf-37-112-117-230.ngrok-free.app/" target="_blank">Генератор скинов</a></div>'.format(footer_style),
+    unsafe_allow_html=True
+)
