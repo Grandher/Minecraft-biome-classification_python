@@ -29,7 +29,7 @@ Minecraft Biome Classification - это проект по мультикласс
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/your-username/minecraft-biome-classification.git
+    git clone https://github.com/Grandher/minecraft-biome-classification.git
     ```
 
 2. Установите необходимые зависимости:
